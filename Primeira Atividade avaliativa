@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+	 crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+	 crossorigin="anonymous">
+	</script>
+	<meta charset="utf-8">
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG"
+	 crossorigin="anonymous">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc"
+	 crossorigin="anonymous">
+	</script>
+</head>
+
+<body>
+<nav class="cabeçalho">
+
+	<div class="container-fluid">
+
+		<div class="row">
+			<div class="col-2" style="background-color:#DEB887">
+				<img height ="80px" src="https://www.pikpng.com/pngl/b/529-5291328_logo-para-loja-de-celular-clipart.png"">
+        </img>
+       </div>
+      <div class="col" style= "background-color:#DEB887">
+         <p align="Right"><a href="https://Login.brenobonim.repl.co/" class="btn btn-success" role="button" aria-pressed="true">Login</a>
+         
+         <button type="button" class="btn btn-success">Meu Carrinho </button></center> </p>
+     </div>
+      
+     </div><!--linha-->
+  <div class="row">
+        <nav class="navbar navbar-expand-lg navbar-dark gray bg-secondary">
+        <div class="container-fluid">
+     <a class="navbar-brand" href="#">Menu</a>
+     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+     </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="https://Trabalho-tec-web.brenobonim.repl.co">Início</a>
+        </li>
+
+            <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Mais opções
+          </a>
+           </ul>
+         </li>
+        
+       </ul>
+       <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Pesquise aqui" aria-label="Search">
+        <button class="btn btn-success" type="submit">Pesquisar</button>
+        </form>
+       </div>
+      </div>
+    </nav>
+  </div>
+      <hr>  
+    <div class="row"> 
+        <div class="col">
+          <div class="card" style="width: 20rem;">
+          <img src="https://blog.voce.com.br/wp-content/uploads/2019/08/capa-celular.jpg"
+           class="card-img-top" height="270px">
+          <div class="card-body" style="background-color:#F5F5DC">
+          <h6 class="card-title">Capas de iphone X</h5>  
+          <h5 class="card-title">R$35,00</h5>
+         <a href="https://blog.voce.com.br/tipos-de-capa-de-celular-e-como-escolher-a-sua/" class="btn btn-outline-success">Comprar</a>
+           </div>
+        </div>      
+      </div>
+         <div class="col">
+          <div class="card" style="width: 20rem;">
+          <img src="https://images.madeiramadeira.com.br/product/images/22996967-kit-com-2-pecas-fone-de-ouvido-branco-com-microfone-inovaprd6ow59hv258gxs-179-1-585x600.jpg"
+           class="card-img-top" height="250px">
+          <div class="card-body" style="background-color:#F5F5DC">
+          <h6 class="card-title">Kit Fone de ouvido branco com microfone</h5>  
+          <h5 class="card-title">R$45,00</h5>
+         <a href="https://www.madeiramadeira.com.br/kit-com-2-pecas-fone-de-ouvido-branco-com-microfone-inova-1808097.html" class="btn btn-outline-success">Comprar</a>
+           </div>
+        </div>      
+      </div>
+        <div class="col">
+          <div class="card" style="width: 20rem;">
+          <img src="https://images-americanas.b2w.io/produtos/01/00/img/212220/1/212220136_1GG.jpg"
+           class="card-img-top" height="270px">
+          <div class="card-body" style="background-color:#F5F5DC">
+          <h6 class="card-title">Headset Para computador</h5>  
+          <h5 class="card-title">R$95,00</h5>
+         <a href="https://www.americanas.com.br/produto/212219371?cor=preto" class="btn btn-outline-success">Comprar</a>
+           </div>
+        </div>      
+      </div>
+        <div class="col">
+          <div class="card" style="width: 20rem;">
+          <img src="https://images.tcdn.com.br/img/img_prod/664093/pelicula_vidro_temperado_premium_hprime_iphone_12_12_pro_6_1_905_1_20201022183705.jpg" height="270" width="150"
+           class="card-img-top" height="270px">
+          <div class="card-body" style="background-color:#F5F5DC">
+          <h6 class="card-title">Pelicula Prime Celular</h5>  
+          <h5 class="card-title">R95,00</h5>
+         <a href="https://www.eletronshop.com.br/capas/apple/peliculas-para-iphone/pelicula-vidro-temperado-premium-hprime-iphone-1212-pro-6-1" class="btn btn-outline-success">Comprar</a>
+           </div>
+        </div>      
+      </div>
+      <div class="col">
+        <aside>
+          <h3>Publicidade</h3>       
+          <a title="Veja propagandas e anúncios publicitários muito criativos!" href="https://bonstutoriais.com.br/category/publicidade/"> <img src="https://i.pinimg.com/564x/72/c6/09/72c609806917c830192db13fe20d614a.jpg" height="500px" width="240"></a>
+        </aside>
+      </div>
+  </div>
+  
+<div>
+<a href="https://Trabalho-tec-web.brenobonim.repl.co/" class="btn btn-info" role="button" aria-pressed="true">Inicio</a>
+<a href="https://contato.brenobonim.repl.co/" class="btn btn-info" role="button" aria-pressed="true">Contato</a>
+<a href="https://quemsomos.brenobonim.repl.co/" class="btn btn-info" role="button" aria-pressed="true">Quem somos</a>
+</div>
+</body>
+</html>
